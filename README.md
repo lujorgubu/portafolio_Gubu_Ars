@@ -7,7 +7,7 @@ Portafolio sobre caracateristicas profesionales de Gubu Ars
 
 * CSS
 
-*Figma
+* Figma
 
 ## Hecho por:
 
